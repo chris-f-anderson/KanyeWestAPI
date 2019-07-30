@@ -1,4 +1,7 @@
 ﻿using System;
+using Newtonsoft.Json.Linq;
+using System.Net.Http;
+
 
 namespace KanyeWestAPI
 {
